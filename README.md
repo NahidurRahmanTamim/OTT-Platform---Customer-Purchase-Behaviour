@@ -1,4 +1,4 @@
-## OTT Platform Case Study - Customer Purchase Behavior Analysis
+## OTT Platform - Customer Purchase Behavior Analysis
 
 A data analysis project exploring how **coupons affect customer behavior** on an OTT platform - comparing users who joined **with** and **without** coupons.  
 This notebook performs complete data preparation, merging, cleaning, and analysis using multiple Excel sheets.
